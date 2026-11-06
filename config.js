@@ -6,8 +6,8 @@
    d'accès de la base (supabase/schema.sql). Ne mettez JAMAIS ici la clé
    « service_role » ou « secret ». */
 window.IMMO_CONFIG = {
-  supabaseUrl: 'https://VOTRE-PROJET.supabase.co',
-  supabaseAnonKey: 'VOTRE-CLE-PUBLIQUE-ANON',
+  supabaseUrl: 'Project URL',
+  supabaseAnonKey: 'anon public',
   // Adresse publique du site (sous-domaine du cabinet).
   siteUrl: 'https://immo.cabinet-tb.tn/',
   // Fermeture automatique de la session après inactivité (minutes, 5 à 240).
