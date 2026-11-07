@@ -6,7 +6,7 @@
    d'accès de la base (supabase/schema.sql). Ne mettez JAMAIS ici la clé
    « service_role » ou « secret ». */
 window.IMMO_CONFIG = {
-  supabaseUrl: 'https://hxbwqamsuiyrywvdbkdz.supabase.co/rest/v1/',
+  supabaseUrl: 'https://hxbwqamsuiyrywvdbkdz.supabase.co',
   supabaseAnonKey: 'sb_publishable_16wr9kj3wy8sghuJwOfGGA_4SWJ-BMO',
   // Adresse publique du site (sous-domaine du cabinet).
   siteUrl: 'https://immo.cabinet-tb.tn/',
